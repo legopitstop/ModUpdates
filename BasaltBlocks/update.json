@@ -1,11 +1,7 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/basalt-blocks",
   "promos": {
-    "1.16.1-latest": "1.0.1",
-    "1.16.1-recommended": "1.0.1"
-    },
-  "1.16.1": {
-    "1.0.0": "Initial release.",
-    "1.0.1": "New Blocks(10), Bug Fixes(1), Other(1); Check CurseForge for more info"
-  }
+    "1.16.1-latest": "1.0.2",
+    "1.16.1-recommended": "1.0.2"
+    }
 }
