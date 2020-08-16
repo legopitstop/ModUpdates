@@ -1,0 +1,4 @@
+Changelog 1.16.2 - 1.0.0
+
+Other
+	-Updated for 1.16.2 Forge

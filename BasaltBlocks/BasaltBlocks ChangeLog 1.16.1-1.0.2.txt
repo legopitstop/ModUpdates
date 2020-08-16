@@ -1,0 +1,24 @@
+Changelog v1.0.2
+
+New Blocks
+	-Basalt Pillar
+	-Smooth Basalt
+	-Smooth Basalt Stairs
+	-Smooth Basalt Slabs
+	-Smooth Basalt Buttons
+	-Smooth Basalt Pressure Plate
+	-Smooth Polished Basalt
+	-Smooth Polished Basalt Stairs
+	-Smooth Polished Basalt Slabs
+	-Smooth Polished Basalt Buttons
+	-Smooth Polished Basalt Pressure Plate
+	-Polished Basalt Brick Door
+	-Polished Basalt Brick Trapdoor
+
+Bug Fixes
+	-Slabs Not Waterloggable
+	-Basalt Cobblestone Double slab will have basalt textures
+
+Other
+	-Updated to work with the latest build of forge (1.16.1 - 32.0.108)
+	-Added update JSON url. (notif if theirs a new update)

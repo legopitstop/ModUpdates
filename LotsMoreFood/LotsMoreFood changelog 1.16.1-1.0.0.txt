@@ -1,0 +1,14 @@
+Changelog 1.16.1 - 1.0.0
+
+New Blocks
+	- Added stove (no functions rn)
+	- Tons of compressed food blocks
+New Items
+	- Added all food items
+Loot Tables
+	- some entities drop food (bats=batmeat, hoglin=hoglin meat)
+Other
+	-Updated to forge 1.16.1 - 32.0.108
+	- Added update JSON
+
+	(NOT all recipes are added, but are coming soon!)

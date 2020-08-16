@@ -1,0 +1,19 @@
+Changelog v1.0.1
+
+New Blocks
+	-Basalt Pressure Plate
+	-Basalt Button
+	-Polished Basalt Brick Pressure Plate
+	-Polished Basalt Brick Button
+	-Basalt Cobblestone
+	-Basalt Cobblestone Pressure Plate
+	-Basalt Cobblestone Button
+	-Basalt Cobblestone Slab
+	-Basalt Cobblestone Stairs
+	-Basalt Cobblestone Wall
+
+Bug Fixes
+	-Button and Pressure Plates Hit boxes effect Players/Entities
+
+Other
+	-Recipe advancements use forge tags instead of the block/item itself
