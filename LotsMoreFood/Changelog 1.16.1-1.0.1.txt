@@ -1,4 +1,4 @@
-Changelog 1.16.1 - 1.0.0
+Changelog 1.16.1 - 1.0.1
 
 New Blocks
 	- Added stove (no functions rn)

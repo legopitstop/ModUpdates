@@ -1,0 +1,9 @@
+Changelog 1.16.2 - 1.0.0-pre1
+New
+	-New Fluids; cheese & sparkling water
+	-New Sounds for consuming certain foods/drinks
+	-Added Creative hunger item that will give you hunger, can be useful when testing foods.
+Other
+	-Updated for 1.16.2 Forge
+	-Added issue tracker url
+	-Stove model uses/has parent file (incase if it is needed or other verients are added)
