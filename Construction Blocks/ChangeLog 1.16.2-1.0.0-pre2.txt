@@ -1,0 +1,47 @@
+Changelog 1.16.2 - 1.0.0-pre1
+
+NEW BLOCKS
+	-acacia scaffolding
+	-birch scaffolding
+	-crimson scaffolding
+	-dark oak scaffolding
+	-jungle scaffolding
+	-oak scaffolding
+	-spruce scaffolding
+	-warped scaffolding
+
+NEW ITEMS
+	-emerald nugget
+	-netherite nugget
+	-ruby nugget
+	-diamond nugget
+	-golden stick
+	-iron stick
+	-diamond stick
+	-netherite stick
+	-ruby stick
+	-emerald stick
+	-paint roller
+	-black paint roller
+	-blue paint roller
+	-brown paint roller
+	-cyan paint roller
+	-gray paint roller
+	-green paint roller
+	-light blue paint roller
+	-light gray paint roller
+	-lime paint roller
+	-magenta paint roller
+	-pink paint roller
+	-purple paint roller
+	-red paint roller
+	-white paint roller
+	-yellow paint roller
+
+OTHER
+	-Changed up block model locations
+RECIPES
+	-nan
+
+LOOT TABLES
+	-nan
